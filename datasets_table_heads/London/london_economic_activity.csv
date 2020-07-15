@@ -1,0 +1,10 @@
+year,area_code,area,gender,economically_active,working_age,percent,confidence
+Jan 2005-Dec 2005,00AA,City of London,F,2400,3600,64.4,
+Jan 2006-Dec 2006,00AA,City of London,F,,,,
+Jan 2007-Dec 2007,00AA,City of London,F,,1400,,
+Jan 2008-Dec 2008,00AA,City of London,F,1200,1200,100,
+Jan 2009-Dec 2009,00AA,City of London,F,,,,
+Jan 2010-Dec 2010,00AA,City of London,F,,2700,,
+Jan 2011-Dec 2011,00AA,City of London,F,,,,
+Jan 2012-Dec 2012,00AA,City of London,F,,,,
+Jan 2013-Dec 2013,00AA,City of London,F,,,65.8,

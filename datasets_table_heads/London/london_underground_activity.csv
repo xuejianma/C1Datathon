@@ -1,0 +1,10 @@
+year,nlc,station,area,weekday_entry,weekday_exit,saturday_entry,saturday_exit,sunday_entry,sunday_exit,annual_entry_and_exit
+2007,500,Acton Town,Ealing,9205,8899,6722,6320,4427,4304,5.77
+2007,502,Aldgate,City of London,9887,10397,2191,2587,1484,1772,5.57
+2007,503,Aldgate East,Tower Hamlets,12820,12271,7040,6220,5505,5000,7.66
+2007,505,Alperton,Brent,4611,4719,3354,3450,2433,2503,3.01
+2007,506,Amersham,Chiltern,4182,3938,1709,1585,1004,957,2.34
+2007,507,Angel,Islington,25812,25367,21332,22245,12051,11876,16.63
+2007,508,Archway,Islington,12752,12092,8814,7089,5608,5001,7.74
+2007,509,Arnos Grove,Enfield,6844,6392,5734,5449,3375,3138,4.31
+2007,510,Arsenal,Islington,4243,3752,4085,4439,2255,2301,2.73
